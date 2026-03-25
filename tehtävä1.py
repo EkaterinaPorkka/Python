@@ -21,4 +21,4 @@ print(f"  {puhelin}")
 print("E-MAIL:")
 print(f"  {email}")
 
-print(f"Ikä: {ika}")
+print(f"Ikä: {ika}") 
